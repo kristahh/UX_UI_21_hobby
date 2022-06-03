@@ -1,0 +1,55 @@
+*{
+    font-family: 'Inconsolata', monospace;
+
+}
+.display-4 {
+    
+    font-size:4rem;
+    color:white;
+  text-shadow: -2px 2px  black;
+}
+
+.footer{
+    background-color: rgb(234, 182, 51);
+}
+
+.nav-pills{
+    background-color:goldenrod; 
+    padding:1rem;
+   
+}
+
+
+
+.jumbotron{
+    background-image: url(/UX_UI_21_hobby/images/tips-main.png);
+height:45rem;
+background-size: cover;
+}
+.col{
+    margin:2rem;
+}
+
+
+
+.card-title{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+p{
+    font-size: 1.2rem;
+  
+}
+.btn{
+    background-color:goldenrod;
+    border-color: white;
+    min-width: 10rem;
+    box-shadow: -7px 6px 5px rgb(104, 104, 104, 0.3);}
+.btn:hover{
+    background-color:coral;
+    border-color: white;
+}
+.nav-link{
+    color:black;
+}
