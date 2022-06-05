@@ -57,3 +57,18 @@ p{
 .nav-link{
     color:black;
 }
+@media screen and (max-width:700px){
+
+    .media{
+        border:solid black 1px;
+        padding: 2rem;
+        margin: 4rem;
+        flex-direction: column;
+        
+    }
+    .mt-0, .mb-1 {
+        text-align: center;
+        padding-top: 2REM;;
+    }
+
+}

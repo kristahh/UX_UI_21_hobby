@@ -25,6 +25,7 @@
     background-image: url(/UX_UI_21_hobby/images/tips-main.png);
 height:45rem;
 background-size: cover;
+background-position: center;
 }
 .col{
     margin:2rem;
