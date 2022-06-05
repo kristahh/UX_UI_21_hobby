@@ -54,6 +54,7 @@ p{
     border-color: white;
     min-width: 10rem;
     box-shadow: -7px 6px 5px rgb(104, 104, 104, 0.3);}
+    
 .btn:hover{
     background-color:coral;
     border-color: white;
